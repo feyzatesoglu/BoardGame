@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <user>
+    <type>user</type>
+    <Username>user</Username>
+    <Password>04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb</Password>
+    <Name-Surname></Name-Surname>
+    <PhoneNumber></PhoneNumber>
+    <Address></Address>
+    <City></City>
+    <Country></Country>
+    <Email></Email>
+  </user>
+  <user>
+    <type>admin</type>
+    <Username>admin</Username>
+    <Password>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</Password>
+    <Name-Surname></Name-Surname>
+    <PhoneNumber></PhoneNumber>
+    <Address></Address>
+    <City></City>
+    <Country></Country>
+    <Email></Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>ThePoetDev</Username>
+    <Password>30c952fab122c3f9759f02a6d95c3758b246b4fee239957b2d4fee46e26170c4</Password>
+    <Name-Surname>ThePoet Dev</Name-Surname>
+    <PhoneNumber>555-5555-5555</PhoneNumber>
+    <Address>Test Address</Address>
+    <City>Test City</City>
+    <Country>Test Country</Country>
+    <Email>Testing</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>poet</Username>
+    <Password>30c952fab122c3f9759f02a6d95c3758b246b4fee239957b2d4fee46e26170c4</Password>
+    <Name-Surname>psasa</Name-Surname>
+    <PhoneNumber>p</PhoneNumber>
+    <Address>p</Address>
+    <City>p</City>
+    <Country>p</Country>
+    <Email>p</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>test</Username>
+    <Password>9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08</Password>
+    <Name-Surname>asdasd</Name-Surname>
+    <PhoneNumber>asdsafsad</PhoneNumber>
+    <Address>ssasdsad</Address>
+    <City>sdasdsadas</City>
+    <Country>sseasdasdsa</Country>
+    <Email>asdasfda</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>ThePoetDevs</Username>
+    <Password>b7f5b58e0f7acf9a8dc8e7ebfd579d9c339de44748ddc9f0a32b95a1d3379e3c</Password>
+    <Name-Surname>ThePoet Dev</Name-Surname>
+    <PhoneNumber>555-5555-5555</PhoneNumber>
+    <Address>Test Address</Address>
+    <City>Test City</City>
+    <Country>Test Country</Country>
+    <Email>Testing</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>ThePoetDevsr</Username>
+    <Password>b7f5b58e0f7acf9a8dc8e7ebfd579d9c339de44748ddc9f0a32b95a1d3379e3c</Password>
+    <Name-Surname>ThePoet Dev</Name-Surname>
+    <PhoneNumber>555-5555-5555</PhoneNumber>
+    <Address>Test Address</Address>
+    <City>Test City</City>
+    <Country>Test Country</Country>
+    <Email>Testing</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>Tester</Username>
+    <Password>30c952fab122c3f9759f02a6d95c3758b246b4fee239957b2d4fee46e26170c4</Password>
+    <Name-Surname>test</Name-Surname>
+    <PhoneNumber>test</PhoneNumber>
+    <Address>test</Address>
+    <City>test</City>
+    <Country>test</Country>
+    <Email>test</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>tester</Username>
+    <Password>30c952fab122c3f9759f02a6d95c3758b246b4fee239957b2d4fee46e26170c4</Password>
+    <Name-Surname>tester</Name-Surname>
+    <PhoneNumber>test</PhoneNumber>
+    <Address>test</Address>
+    <City>test</City>
+    <Country>test</Country>
+    <Email>test</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>testere</Username>
+    <Password>043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89</Password>
+    <Name-Surname>s</Name-Surname>
+    <PhoneNumber>s</PhoneNumber>
+    <Address>s</Address>
+    <City>s</City>
+    <Country>s</Country>
+    <Email>s</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>testerr</Username>
+    <Password>043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89</Password>
+    <Name-Surname>s</Name-Surname>
+    <PhoneNumber>s</PhoneNumber>
+    <Address>s</Address>
+    <City>s</City>
+    <Country>s</Country>
+    <Email>s</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>testerre</Username>
+    <Password>454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1</Password>
+    <Name-Surname>r</Name-Surname>
+    <PhoneNumber>r</PhoneNumber>
+    <Address>rr</Address>
+    <City>r</City>
+    <Country>r</Country>
+    <Email>r</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>testerrrr</Username>
+    <Password>043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89</Password>
+    <Name-Surname>s</Name-Surname>
+    <PhoneNumber>s</PhoneNumber>
+    <Address>s</Address>
+    <City>s</City>
+    <Country>s</Country>
+    <Email>s</Email>
+  </user>
+  <user>
+    <type>user</type>
+    <Username>testerrrrrrr</Username>
+    <Password>043a718774c572bd8a25adbeb1bfcd5c0256ae11cecf9f9c3f925d0e52beaf89</Password>
+    <Name-Surname>s</Name-Surname>
+    <PhoneNumber>s</PhoneNumber>
+    <Address>s</Address>
+    <City>s</City>
+    <Country>s</Country>
+    <Email>s</Email>
+  </user>
+</Users>
